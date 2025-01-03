@@ -44,4 +44,5 @@ Example 2: A still landscape image with dynamically flowing elements.
 This project builds on advancements in AI and motion synthesis research, with gratitude to the open-source community for their invaluable contributions to the field of real-time image animation.
 
 ## Demo
-[link to colab] (https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb)
+[Kaleidomotion - First-Order Motion Model](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb)
+
