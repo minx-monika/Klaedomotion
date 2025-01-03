@@ -35,6 +35,9 @@ Example 1: A portrait photo brought to life with realistic movements.
 
 Example 2: A still landscape image with dynamically flowing elements.
 
+[![Watch Video]](animate.mp4)
+
+
 ## Future Scope
 1. Enhance motion transfer capabilities to support a wider range of animations.
 2. Improve real-time performance for large-scale applications.
